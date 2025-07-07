@@ -39,6 +39,6 @@ a = game(comp, player)
 if a == None:
     print('Game is tie!')
 elif a == True:
-    print('You have won !')
+    print('You have won the game !')
 elif a == False:
     print('You have lost !')        
